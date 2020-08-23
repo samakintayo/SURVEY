@@ -1,0 +1,39 @@
+body{
+  background-color: #3DB198;
+
+}
+
+h1{
+  font-size: 2rem;
+  text-align: center;
+}
+
+.container{
+  background-color: white;
+  text-align: left;
+  margin: 0 auto 5%;
+  padding: 3%;
+  border-radius: 0 0 5% 5%;
+}
+
+body .container-fluid{
+    background-color: #FB5A02;
+}
+
+
+
+p{
+  padding: 10px;
+}
+
+.copyright{
+
+  font-size: 1rem;
+  padding: 2%;
+  text-align: center;
+
+}
+.margin-add{
+  margin: 0 3%;
+  padding: 0 2%;
+}
